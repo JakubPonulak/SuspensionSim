@@ -1,5 +1,5 @@
 # SuspensionSim
-MATLAB app which simulates a car suspension system and how it would react to a small bump
+SuspensionSim is a MATLAB app which simulates a car suspension system and how it would react to small bumps on the road.
 
 
 The purpose of this application is to provide a simplified simulation of a typical car suspension system, one which is travelling at approximately 10 m/s (22.4 mph) and has been subjected to a small bump while travelling on a flat road. Users can enter their desired data values, click the "Run Simulation" button, and watch the simulation play in the display section. After the simulation is complete, the application will also display a plot of Height vs Time, on which both the car body and wheel will be graphed independantly.
