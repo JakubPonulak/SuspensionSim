@@ -4,6 +4,8 @@ MATLAB app which simulates a car suspension system and how it would react to a s
 
 The purpose of this application is to provide a simplified simulation of a typical car suspension system, one which is travelling at approximately 10 m/s (22.4 mph) and has been subjected to a small bump while travelling on a flat road. 
 
+![alt text](https://github.com/JakubPonulak/SuspensionSim/blob/main/sample_image.png)
+
 ## Equations of Motion for the Suspension System
 
 The system consists of:
