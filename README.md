@@ -12,7 +12,9 @@ The application allows users to choose 3 different values that affect the result
 - Radius of the wheel in meters
 - Stiffness of the tire in kN/m
 
-Due to contraints with the model and the ode78 function, the maximum allowable bump height is 0.6 m, while the tire stiffness must be set between 100 and 200 kN/m. While the wheel radius does not affect the results of the data, it has been restricted between values of 0.25 and 0.6 for realism and to ensure that all wheel sizes will fit within the animation region.
+Due to contraints with the model and the ode78 function, the maximum allowable bump height is 0.6 m, while the tire stiffness must be set between 100 and 200 kN/m. While the wheel radius does not affect the results of the data, it has been restricted to values between 0.25 and 0.6 for realism and to ensure that all wheel sizes will fit within the animation region.
+
+Due to MATLAB's slider functionality requiring a range rather than a single value, only the maximum value of the slider range will be used in the simulation. When adjusting sliders in the app, ensure that the upper limit represents the intended input for the simulation. The lower limit is ignored.
 
 ## Equations of Motion for the Suspension System
 
