@@ -63,4 +63,4 @@ Where:
 - $T$ = Bump duration
 
 ## Viewing the Simulation
-Currently, the only way to use the simulation application is to download it and run it in the latest version of MATLAB. 
+Currently, the only way to use the simulation application is to download it and run it in the latest version of MATLAB. However, to view the code, simply head over to [suspension_sim_exported.m](https://github.com/JakubPonulak/SuspensionSim/blob/main/suspension_sim_exported.m)
