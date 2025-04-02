@@ -62,4 +62,5 @@ Where:
 - $h$ = Bump height  
 - $T$ = Bump duration
 
-
+## Viewing the Simulation
+Currently, the only way to use the simulation application is to download it and run it in the latest version of MATLAB. 
